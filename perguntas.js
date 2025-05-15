@@ -1,7 +1,7 @@
 riaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Esportes',
+    'Qual piloto brasileiro tem mais vitórias na fórmula 1?',
+    'Ayrton Senna'
 )
 
 criaCartao(

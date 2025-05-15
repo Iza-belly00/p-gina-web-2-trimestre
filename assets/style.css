@@ -1,7 +1,7 @@
 root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #dbe4ef00;
+    --card-front-color: #d32323fd;
+    --card-back-color: #df775d;
 }
 
 body {
@@ -25,9 +25,9 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--card-front-color);
+    background-color: var(--card-back-color);
     text-align: center;
-    /* background-color: aquamarine; */
+    /* background-color: ; */
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
